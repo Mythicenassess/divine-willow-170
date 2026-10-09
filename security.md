@@ -143,4 +143,4 @@ Yes — download again and repeat the steps.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*divine-willow-170 · Updated 2026-10-08 · Shared under the MIT License*
+*divine-willow-170 · Updated 2026-10-09 · Shared under the MIT License*
